@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1746111414 source:c:\users\hp\desktop\sysmon-cpp\utils\fileutils.cpp
+	"FileUtils.h"
+	<fstream>
+	<iostream>
+
+1746111414 c:\users\hp\desktop\sysmon-cpp\utils\fileutils.h
+	<string>
+	<vector>
+
